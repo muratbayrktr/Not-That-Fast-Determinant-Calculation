@@ -1,4 +1,4 @@
-# fast-determinant-calculation  
+# not-that-fast-determinant-calculation  
 Trying a new algorithm to calculate determinant in a fast way.  
 
 It uses next_permutation algorithm the compute the next permutation in O(n). I added swap count   
